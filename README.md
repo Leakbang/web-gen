@@ -1,6 +1,8 @@
 # web-gen
 A Simple and efficient Static website generator written in python.
 
+![Screenshot](https://i.imgur.com/VN8mZ8a.png)
+
 ## Features
 
 - A simple markdown to html converter. 

@@ -12,6 +12,8 @@ Current supported markdown conversions:
 
 ## Usage
 
+Demos are included.
+
 1) Open `web_gen.py` and set the variables listed in the configuration section.  
 > Note: You could use any html file as template. The script replaces `{{content}}` with the markdown content.   
 The script also sets the first H1 Heading as the title. For that to function, be sure to set the html title as `{{title}}`.  

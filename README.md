@@ -3,6 +3,10 @@ A Simple and efficient Static website generator written in python.
 
 ![Screenshot](https://i.imgur.com/VN8mZ8a.png)
 
+## Use case
+I have found other static website generating tools like Jekyll or Pelican to be too complex and cumbersome to use. 
+So I have developed this tool as a simple to use and modify static website generator.
+
 ## Features
 
 - A simple markdown to html converter. 
